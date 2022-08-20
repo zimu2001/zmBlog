@@ -1,25 +1,26 @@
 baseURL: https://zimu2001.github.io/zmBlog/
 languageCode: en-us
-title: My New Hugo Site
+title: 王二木的博客
 theme: "PaperMod"
 
 
   
 params:
-    disableThemeToggle: true
+    disableThemeToggle: true # 关闭明暗色调切换
     
     ShowBreadCrumbs: true
+
     socialIcons: # optional
-        - name: "<platform>"
-          url: "<link>"
-        - name: "<platform 2>"
-          url: "<link2>"
+        - name: "Facebook"
+          url: "https://www.facebook.com/"
+        - name: "twitter"
+          url: "https://twitter.com/"
     profileMode:
         enabled: true
-        title: "<Title>" # optional default will be site title
-        subtitle: "This is subtitle"
-        imageUrl: "<image link>" # optional
-        imageTitle: "<title of image as alt>" # optional
+        title: "111111" # optional default will be site title
+        subtitle: "北航软件工程在读"
+        imageUrl: "resources\_gen\images\profile\profilephoto.jpg" # optional
+        #imageTitle: "<title of image as alt>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
@@ -27,4 +28,6 @@ params:
               url: "/archive"
             - name: Github
               url: "https://github.com/"
+            - name: Post
+              url: "/posts"
 
