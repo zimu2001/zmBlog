@@ -19,7 +19,7 @@ params:
         enabled: true
         title: "111111" # optional default will be site title
         subtitle: "buaa software"
-        #imageUrl: "resources\_gen\images\profile\profilephoto.jpg" # optional
+        imageUrl: "resources\_gen\images\profile\profilephoto.jpg" # optional
         #imageTitle: "<title of image as alt>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
