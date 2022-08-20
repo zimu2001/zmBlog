@@ -1,6 +1,6 @@
 baseURL: https://zimu2001.github.io/zmBlog/
 languageCode: en-us
-title: 王二木的博客
+title: WZM's Site
 theme: "PaperMod"
 
 
@@ -18,8 +18,8 @@ params:
     profileMode:
         enabled: true
         title: "111111" # optional default will be site title
-        subtitle: "北航软件工程在读"
-        imageUrl: "resources\_gen\images\profile\profilephoto.jpg" # optional
+        subtitle: "buaa software"
+        #imageUrl: "resources\_gen\images\profile\profilephoto.jpg" # optional
         #imageTitle: "<title of image as alt>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
