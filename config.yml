@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://zimu2001.github.io/zmBlog/
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
