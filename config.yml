@@ -17,7 +17,7 @@ params:
           url: "https://twitter.com/"
     profileMode:
         enabled: true
-        title: "111111" # optional default will be site title
+        title: "图片测试" # optional default will be site title
         subtitle: "buaa software"
         imageUrl: "\resources\_gen\images\profilephoto.jpg" # optional
         #imageTitle: "<title of image as alt>" # optional
